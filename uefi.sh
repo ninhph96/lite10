@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-IMAGE_URL="http://35.229.159.40/lite10.raw.gz"
+IMAGE_URL="http://35.229.159.40/uefi10.raw.gz"
 
 if [ "$EUID" -ne 0 ]
   then echo "Please run as root"
