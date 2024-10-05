@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-IMAGE_URL="http://35.234.61.115/ghostspectre.raw.gz"
+IMAGE_URL="http://34.80.168.48/ghostspectre.raw.gz"
 
 if [ "$EUID" -ne 0 ]
   then echo "Please run as root"
